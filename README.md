@@ -1,4 +1,4 @@
-# Antlr-Calculator-Visitor
-A Python Based calculator using Antlr Visitor
+# Python based calculator
+terminal-based calculator with ANTLR grammar/ and CST/AST Visitor 
 
-in order to run,  use test_math.py
+Run with `python3 test_math.py`
